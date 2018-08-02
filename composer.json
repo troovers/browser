@@ -15,13 +15,7 @@
   },
   "autoload" : {
     "psr-4" : {
-      "troovers\\Browser" : "src/"
-    }
-  },
-  "target-dir" : "troovers/Browser",
-  "extra" : {
-    "branch-alias" : {
-      "dev-master" : "master"
+      "troovers\\Browser\\" : "src/"
     }
   }
 }
