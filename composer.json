@@ -1,0 +1,27 @@
+{
+  "name": "troovers/browser",
+  "description": "A PHP project to detect the users' browser",
+  "keywords": ["browser", "user agent", "detection"],
+  "homepage": "http://chrisschuld.com/projects/browser-php-detecting-a-users-browser-from-php.html",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Roovers",
+      "email": "thomas@geekk.nl"
+    }
+  ],
+  "require" : {
+    "php": "^7.1.0"
+  },
+  "autoload" : {
+    "psr-4" : {
+      "troovers\\Browser" : "src/"
+    }
+  },
+  "target-dir" : "troovers/Browser",
+  "extra" : {
+    "branch-alias" : {
+      "dev-master" : "master"
+    }
+  }
+}
