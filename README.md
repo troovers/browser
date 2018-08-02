@@ -1,7 +1,7 @@
 troovers/browser
 =============
 
-`This is a copy of the https://github.com/cbschuld/Browser.php, which wasn't versioned`.
+*This is a copy of the https://github.com/cbschuld/Browser.php, which wasn't versioned*.
 This library helps detect the user's browser and platform at the PHP level via the user agent
 
 
